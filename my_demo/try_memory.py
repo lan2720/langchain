@@ -75,3 +75,4 @@ print(f"AI回复: {ai_rsp}")
 #  'AI: 我可以解答个股相关问题，包括但不限于资讯、行情、财务类问题']
 # '''
 # print(memory.memory_variables)
+# print()
